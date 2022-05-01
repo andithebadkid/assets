@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ohmu
+* source:	https://sketchfab.com/3d-models/ohmu-10686f20bed5414f81b3ac9cf48da146
+* author:	HarukaS (https://sketchfab.com/Haruka_S)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ohmu" (https://sketchfab.com/3d-models/ohmu-10686f20bed5414f81b3ac9cf48da146) by HarukaS (https://sketchfab.com/Haruka_S) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
